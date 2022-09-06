@@ -1,0 +1,66 @@
+
+.first_div,.second_dev,.third_dev,.fouth_dev{
+    padding-top: 60px;
+    padding-bottom: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d0dbe4;
+   
+ }
+.first_sub_first,.second_dev_first,.third_dev_first,.fourth_dev_first{
+    width: 50%;
+    
+}
+.first_sub_second,.second_dev_second,.third_dev_second,.fouth_dev_second{
+    width: 50%;
+}
+.logo img{
+    width: 300px;
+    height: 150px;
+    margin-left: 170px; 
+}
+.logo h1 ,.second_dev_second h1,h2 ,.third_dev_first h1,h2,.fouth_dev_second h1,h2{
+    text-align: center;
+    letter-spacing: 3px;
+    margin-bottom: -20px;
+    
+}
+.logo p,.fifth_dev p {
+    text-align: center;
+    font-size: x-large;
+}
+.store {
+    padding-top: 30px;
+    padding-left:170px; 
+}
+.store img{
+    padding: 8px;
+}
+.fifth_dev {
+    background-color: #d0dbe4;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+
+
+.sixth_dev,.fifth_dev_first{
+    display: flex;
+    background-color: #d0dbe4;
+    justify-content: center;
+}
+
+.second_dev .second_dev_first img,.fouth_dev .fourth_dev_first img{
+    padding-left: 50px;
+}
+.second_dev_second,.third_dev_first,.fouth_dev_second{
+    padding-bottom: 250px;
+}
+h2{
+    color: grey;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+}
