@@ -6,7 +6,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #d0dbe4;
+    background-color: #e2e7eb;
    
  }
 .first_sub_first,.second_dev_first,.third_dev_first,.fourth_dev_first{
@@ -39,7 +39,7 @@
     padding: 8px;
 }
 .fifth_dev {
-    background-color: #d0dbe4;
+    background-color: #e2e7eb;
     padding-top: 60px;
     padding-bottom: 60px;
     
@@ -48,7 +48,7 @@
 
 .sixth_dev,.fifth_dev_first{
     display: flex;
-    background-color: #d0dbe4;
+    background-color: #e2e7eb;
     justify-content: center;
 }
 
