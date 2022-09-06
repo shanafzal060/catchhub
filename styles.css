@@ -94,26 +94,6 @@
     margin-bottom: 40px ;
 
 }
-/* .wave {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-}
-.wave svg {
-    position: relative;
-    display: block;
-    width: calc(100% + 1.3px);
-    height: 300px;
-    z-index: -1;
-}
-.wave .shape-fill {
-    fill: #c8c8c8;
-    fill-opacity: 1;
-
-} */
 .position{
     z-index: -1;
 }
