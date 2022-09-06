@@ -7,8 +7,8 @@
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
-    background-color: #e2e7eb;
+    justify-content: center;    
+    /* background-color: #e2e7eb; */
    
  }
 .first_sub_first,.second_dev_first,.third_dev_first,.fourth_dev_first{
@@ -46,6 +46,7 @@
     background-color: #e2e7eb;
     padding-top: 60px;
     padding-bottom: 60px;
+    margin-top: -5px;
     
 }
 
@@ -92,4 +93,27 @@
     margin-top: -40px;
     margin-bottom: 40px ;
 
+}
+/* .wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+.wave svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 300px;
+    z-index: -1;
+}
+.wave .shape-fill {
+    fill: #c8c8c8;
+    fill-opacity: 1;
+
+} */
+.position{
+    z-index: -1;
 }
