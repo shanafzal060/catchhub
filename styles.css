@@ -1,4 +1,6 @@
-
+*{
+    font-family: 'Lato', sans-serif;
+}
 .first_div,.second_dev,.third_dev,.fouth_dev{
     padding-top: 60px;
     padding-bottom: 10px;
@@ -17,17 +19,18 @@
     width: 50%;
 }
 .logo img{
-    width: 300px;
-    height: 150px;
+    width: 320px;
+    height: 180px;
     margin-left: 170px; 
+    margin-bottom: -35px;
 }
-.logo h1 ,.second_dev_second h1,h2 ,.third_dev_first h1,h2,.fouth_dev_second h1,h2{
+.logo h1 ,.second_dev_second h1,p ,.third_dev_first h1,p,.fouth_dev_second h1,p{
     text-align: center;
     letter-spacing: 3px;
-    margin-bottom: -20px;
+    margin-bottom: -15px;
     
 }
-.logo p,.fifth_dev p {
+.logo p{
     text-align: center;
     font-size: x-large;
 }
@@ -38,6 +41,7 @@
 .store img{
     padding: 8px;
 }
+
 .fifth_dev {
     background-color: #e2e7eb;
     padding-top: 60px;
@@ -46,10 +50,13 @@
 }
 
 
-.sixth_dev,.fifth_dev_first{
+.fifth_dev_first{
     display: flex;
     background-color: #e2e7eb;
     justify-content: center;
+    padding: 50px 50px 0px 50px;
+    margin-bottom: -10px;
+    margin-top: -10px;
 }
 
 .second_dev .second_dev_first img,.fouth_dev .fourth_dev_first img{
@@ -58,9 +65,31 @@
 .second_dev_second,.third_dev_first,.fouth_dev_second{
     padding-bottom: 250px;
 }
-h2{
+.second_dev_second p ,.third_dev_first p,.fouth_dev_second p{
     color: grey;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 30px;
     
+}
+.fifth_dev p {
+    text-align: center;
+    letter-spacing: 0px;
+    font-size: 25px;
+}
+.sixth_dev{
+    display: flex;
+    background-color: #e2e7eb;
+    justify-content: center;
+    padding: 10px;
+
+}
+.fifth_dev_first img{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.logo{
+    padding: 15px;
+    margin-top: -40px;
+    margin-bottom: 40px ;
+
 }
