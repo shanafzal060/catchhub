@@ -8,7 +8,6 @@
     display: flex;
     align-items: center;
     justify-content: center;    
-    /* background-color: #e2e7eb; */
    
  }
 .first_sub_first,.second_dev_first,.third_dev_first,.fourth_dev_first{
@@ -68,7 +67,6 @@
 }
 .second_dev_second p ,.third_dev_first p,.fouth_dev_second p{
     color: grey;
-    font-family:Arial, Helvetica, sans-serif;
     font-size: 30px;
     
 }
